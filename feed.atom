@@ -2,10 +2,1387 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://benthecoder.github.io/feed/index.html</id>
     <title>Ben's feeds</title>
-    <updated>2021-06-03T02:30:25.790Z</updated>
+    <updated>2021-06-04T01:57:49.198Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://benthecoder.github.io/feed/index.html"/>
     <link rel="self" href="https://benthecoder.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is learning web development worth it?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrs4r6/is_learning_web_development_worth_it/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrs4r6/is_learning_web_development_worth_it/"/>
+        <updated>2021-06-04T00:21:54.000Z</updated>
+        <summary type="html"><![CDATA[I have seen that sometimes the results obtained from the data science process have to be displayed to the end user in some sort of analytics web tool. Should I add web development to my data science toolbox?
+  &#32; submitted by &#32;  /u/daytoniano  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok just gave itself permission to collect biometric data on US users, including ‘faceprints and voiceprints’]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrrmkb/tiktok_just_gave_itself_permission_to_collect/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrrmkb/tiktok_just_gave_itself_permission_to_collect/"/>
+        <updated>2021-06-03T23:56:22.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/DisturbedBeaker  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine temperature vs grip style over time [OC]]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrqxfy/wine_temperature_vs_grip_style_over_time_oc/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrqxfy/wine_temperature_vs_grip_style_over_time_oc/"/>
+        <updated>2021-06-03T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/ENG_87  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google follows Apple's lead and makes it harder for advertisers to track users on Android]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrqb5n/google_follows_apples_lead_and_makes_it_harder/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrqb5n/google_follows_apples_lead_and_makes_it_harder/"/>
+        <updated>2021-06-03T22:51:30.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/kry_some_more  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I see your two-letter combinations in english, and I raise you digrams in 17 languages (+ bonuses)]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrpdn5/i_see_your_twoletter_combinations_in_english_and/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrpdn5/i_see_your_twoletter_combinations_in_english_and/"/>
+        <updated>2021-06-03T22:07:52.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Gavus_canarchiste  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice On Resume Data Collection]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrpd22/advice_on_resume_data_collection/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrpd22/advice_on_resume_data_collection/"/>
+        <updated>2021-06-03T22:07:08.000Z</updated>
+        <summary type="html"><![CDATA[During this summer season, I hope to conduct a research project with my discord friend HonoredTarget. The goal of this project is to compile a giant database of resumes sent to FANG companies and compare those that were accepted/rejected to try and &quot;crack&quot; the screening process. In other words, we are essentially trying to figure out if there are certain keywords, phrases, or wordings that increase your chances of getting an interview. However, in order to do this, we need a large pool of resumes …]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hired at a Small Company. My Job is... Shaky.]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrp373/hired_at_a_small_company_my_job_is_shaky/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrp373/hired_at_a_small_company_my_job_is_shaky/"/>
+        <updated>2021-06-03T21:54:46.000Z</updated>
+        <summary type="html"><![CDATA[First DS job, working remotely, started about 3 months ago. It&#39;s a very small company in an industry that I was unfamiliar with, so there was a distinct learning curve in getting acquainted. There was also no onboarding, as is to be expected for very small companies.
+ I&#39;m not sure they needed a data scientist and now I&#39;m kind of scrambling to try and show value. Along with that, the part of the business that I&#39;m working on does not generate any revenue, and has very little data (about 3000 s…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curated conversations with brilliant rationalists]]></title>
+        <id>fgYQjTktBmNZvMqce</id>
+        <link href="https://www.lesswrong.com/posts/fgYQjTktBmNZvMqce/curated-conversations-with-brilliant-rationalists"/>
+        <updated>2021-06-03T21:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Published on May 28, 2021 2:23 PM GMT
+
+Since August 2020 I've been recording conversations with brilliant and insightful rationalists, effective altruists (and people adjacent to or otherwise connected somehow to those communities). If you're an avid reader of this site, I suspect you will recognize many of the names of those I've spoken to.
+Since I suspect some LessWrong readers will appreciate these conversations, here is a curated list with links, organized by the LessWrong relevant topics we cover in ea…]]></summary>
+        <author>
+            <name>spencerg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best platform for a school data dashboard?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrou0l/best_platform_for_a_school_data_dashboard/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrou0l/best_platform_for_a_school_data_dashboard/"/>
+        <updated>2021-06-03T21:43:12.000Z</updated>
+        <summary type="html"><![CDATA[I&#39;m moving into a new role at my school next year--Data Strategist (yay!) and I will be responsible for managing the school&#39;s data. At the moment, data is not accessible and we have struggled as a result. 
+ To my question, what do you think the best tool is for a dashboard that is easy to navigate/filter for many people that are not tech savvy and that will be easy for me to update on a weekly basis. 
+ My first thought was google data studio since it&#39;s pretty straight forward, free, and easily w…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Painting palettes [OC]]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nroj55/painting_palettes_oc/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nroj55/painting_palettes_oc/"/>
+        <updated>2021-06-03T21:29:52.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/benpaulthurston  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow.js - Time Warp Scan]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrofjr/tensorflowjs_time_warp_scan/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrofjr/tensorflowjs_time_warp_scan/"/>
+        <updated>2021-06-03T21:25:30.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/GantMan  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fauci Says It’s Unlikely But Possible That COVID Virus Leaked From Lab]]></title>
+        <id>https://wordpress.futurism.com/?p=221830</id>
+        <link href="https://futurism.com/fauci-unlikely-possible-covid-virus-leaked-lab"/>
+        <updated>2021-06-03T21:09:21.000Z</updated>
+        <summary type="html"><![CDATA[The country’s top infectious disease expert Anthony Fauci still isn’t ruling out the possibiltiy that the SARS-CoV-2 virus that causes COVID-19 may have leaked from a lab. In a CNN interview, Fauci reiterated that it is more likely the virus jumped from animals. “I have always said, and will say today to you, John, that […]
+The post Fauci Says It&#8217;s Unlikely But Possible That COVID Virus Leaked From Lab appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Tesla Autopilot Get Bamboozled by a Truck Hauling Traffic Lights]]></title>
+        <id>https://wordpress.futurism.com/?p=221828</id>
+        <link href="https://futurism.com/tesla-autopilot-bamboozled-truck-traffic-lights"/>
+        <updated>2021-06-03T21:07:18.000Z</updated>
+        <summary type="html"><![CDATA[A Tesla Model 3 owner encountered an unusual glitch while using the Autopilot assisted driving system on the highway: The car seemed to detect an endless trail of traffic lights all the way down the road as it traveled upwards of 80 MPH. In video footage of the car’s display that the […]
+The post Watch Tesla Autopilot Get Bamboozled by a Truck Hauling Traffic Lights appeared first on Futurism.]]></summary>
+        <author>
+            <name>Dan Robitzski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it legal to create images with an open-source NN implementation and sell them?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrnxka/is_it_legal_to_create_images_with_an_opensource/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrnxka/is_it_legal_to_create_images_with_an_opensource/"/>
+        <updated>2021-06-03T21:02:46.000Z</updated>
+        <summary type="html"><![CDATA[I want to use the recently published VQGAN+CLIP implementation of transformers to generate images based on a text description, and then sell those images in any way I can, maybe through a website. I would use very specific seeds and text, so these images would be almost impossible for anybody to replicate with the same network. Is this legal? As I understand, VQGAN and CLIP are both open-source.
+ Thank you
+  &#32; submitted by &#32;  /u/dokasov  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowflake CEO Says Worker Merit Should Outweigh Diversity Goals]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrnn4z/snowflake_ceo_says_worker_merit_should_outweigh/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrnn4z/snowflake_ceo_says_worker_merit_should_outweigh/"/>
+        <updated>2021-06-03T20:50:21.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/big_hearted_lion  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paypal shut down someone's account because they didn't like where he was spending his money, and they won't even let him withdraw for 6 months. This is why crypto is necessary.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrnbhd/paypal_shut_down_someones_account_because_they/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrnbhd/paypal_shut_down_someones_account_because_they/"/>
+        <updated>2021-06-03T20:36:14.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mbiz05  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eating Mushrooms Vastly Cuts Cancer Risk, According to New Research]]></title>
+        <id>https://wordpress.futurism.com/?p=221799</id>
+        <link href="https://futurism.com/eating-mushrooms-cut-cancer-risk"/>
+        <updated>2021-06-03T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[According to a new study, eating just 18 grams of mushroom a day, roughly the equivalent of two medium-sized mushrooms, could almost halve the risk of cancer. The study, penned by researchers at Pennsylvania State University, and published in the journal Advances in Nutrition earlier this year, found a relationship between mushroom consumption and cancer […]
+The post Eating Mushrooms Vastly Cuts Cancer Risk, According to New Research appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here are home plate umpire Chad Whitson’s calls for Gerrit Cole vs his calls for Ryan Yarbrough. He was fooled by Yarbrough’s sidearm delivery all game. This is absurd]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrmzdx/here_are_home_plate_umpire_chad_whitsons_calls/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrmzdx/here_are_home_plate_umpire_chad_whitsons_calls/"/>
+        <updated>2021-06-03T20:21:45.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Slouchy87  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. to give ransomware hacks similar priority as terrorism]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrmuhi/us_to_give_ransomware_hacks_similar_priority_as/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrmuhi/us_to_give_ransomware_hacks_similar_priority_as/"/>
+        <updated>2021-06-03T20:15:58.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/MicroSofty88  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Saves Dying Mars Lander With Ingenious Hack]]></title>
+        <id>https://wordpress.futurism.com/?p=221813</id>
+        <link href="https://futurism.com/nasa-saves-dying-mars-lander"/>
+        <updated>2021-06-03T20:09:06.000Z</updated>
+        <summary type="html"><![CDATA[NASA’s robotic lander InSight has been in a bit of a perilous position for nearly a year — thick piles of dust blocking its solar panels forced its operators to consider shutting down all but the most essential hardware in order to save precious energy. But technicians at the NASA Jet Propulsion Laboratory […]
+The post NASA Saves Dying Mars Lander With Ingenious Hack appeared first on Futurism.]]></summary>
+        <author>
+            <name>Dan Robitzski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explanation of Enterprise Data Architecture vs tools]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrmhcn/explanation_of_enterprise_data_architecture_vs/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrmhcn/explanation_of_enterprise_data_architecture_vs/"/>
+        <updated>2021-06-03T20:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi all. I was hoping for some insight. I haven&#39;t worked with Red Hat or OpenShift before, and so I was wondering if you could give me the Cliffs Notes version of how the platform differs to a traditional enterprise data architecture? Or is it meant to slot in to the gap to provide cloud services for the other tools being used?
+ Would appreciate a bit of insight there. Hope that isn&#39;t too silly a question.
+ I was also wondering if there is an open source Enterprise Data Architecture system (with all …]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US Military Is Looking for a Drone-Killing Bazooka]]></title>
+        <id>https://wordpress.futurism.com/?p=221802</id>
+        <link href="https://futurism.com/us-military-drone-killing-bazooka"/>
+        <updated>2021-06-03T19:44:47.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Defense has put out a call for designs of a handheld anti-drone weapon that could shoot down enemy drones from the ground, as Popular Science reports. The weapon is meant to be used much in the same way as an anti-tank bazooka, small enough to be carried on the shoulder. Every single […]
+The post The US Military Is Looking for a Drone-Killing Bazooka appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. to give ransomware hacks similar priority as terrorism, official says]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrm1xk/us_to_give_ransomware_hacks_similar_priority_as/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrm1xk/us_to_give_ransomware_hacks_similar_priority_as/"/>
+        <updated>2021-06-03T19:42:15.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/famaminores  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Why did the earth warm up naturally to thaw the last Ice Age?]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrlun2/oc_why_did_the_earth_warm_up_naturally_to_thaw/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrlun2/oc_why_did_the_earth_warm_up_naturally_to_thaw/"/>
+        <updated>2021-06-03T19:33:33.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/neilhalloran  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano x Ergo: Explained]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrl838/cardano_x_ergo_explained/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrl838/cardano_x_ergo_explained/"/>
+        <updated>2021-06-03T19:07:18.000Z</updated>
+        <summary type="html"><![CDATA[There were various questions on how Cardano and Ergo were related so I created the following infographic to shed some light into the subject! There is a lot of collaboration going on between both groups. With Alonzo coming to fruition, it is important to understand the ecosystem that will exist. One of the key projects is Ergo. It has three project in line for the Cardano ecosystem, that will greatly benefit users. PoW has its own advantages compared to POS and Ergo is leveraging these features to improve o…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 to Include In-Game Cryptocurrency Rewards, According to Prominent Insider]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrku3o/gta_6_to_include_ingame_cryptocurrency_rewards/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrku3o/gta_6_to_include_ingame_cryptocurrency_rewards/"/>
+        <updated>2021-06-03T18:50:32.000Z</updated>
+        <summary type="html"><![CDATA[According to a prominent leaker, Grand Theft Auto 6 will pay players in-game cryptocurrency rewards for completing some missions, as per report by U.Today. 
+ As claimed in a June 3 tweet by famous leaker Tom Henderson, the next instalment of the iconic franchise will pay players rewards in crypto instead of cash for completing some missions: 
+ I heard recently that in GTA 6, some missions will reward you in bitcoin instead of cash for completing some missions.
+ Henderson also says that the game will add a b…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC]Immigrant Visas Issued by the US 2000-2020]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrktpe/ocimmigrant_visas_issued_by_the_us_20002020/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrktpe/ocimmigrant_visas_issued_by_the_us_20002020/"/>
+        <updated>2021-06-03T18:50:06.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Ok-Resort2015  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicist Claims That Information Is a New Form of Matter]]></title>
+        <id>https://wordpress.futurism.com/?p=221803</id>
+        <link href="https://futurism.com/physicist-information-new-form-matter"/>
+        <updated>2021-06-03T18:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Based on current trends, there could be more bits of digital information in use on Earth than there are atoms of matter in about 350 years — and a physicist says that digital information ought to be considered a new form of matter itself. Earth is heading toward a crisis that University of […]
+The post Physicist Claims That Information Is a New Form of Matter appeared first on Futurism.]]></summary>
+        <author>
+            <name>Dan Robitzski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Shipping intensity in the Netherlands]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrk9es/oc_shipping_intensity_in_the_netherlands/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrk9es/oc_shipping_intensity_in_the_netherlands/"/>
+        <updated>2021-06-03T18:25:08.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/SiggyF  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I. Learns to Dodge BOOM-BOOM Trees and Finish Maze]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrjoei/ai_learns_to_dodge_boomboom_trees_and_finish_maze/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrjoei/ai_learns_to_dodge_boomboom_trees_and_finish_maze/"/>
+        <updated>2021-06-03T18:00:20.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/charryw  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research finds human brains can easily adapt to controlling a robotic “third thumb”]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrj7ef/research_finds_human_brains_can_easily_adapt_to/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrj7ef/research_finds_human_brains_can_easily_adapt_to/"/>
+        <updated>2021-06-03T17:39:44.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/fchung  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team with no data science infrastructure/knowledge (crawl/walk/run)]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrj0i1/team_with_no_data_science_infrastructureknowledge/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrj0i1/team_with_no_data_science_infrastructureknowledge/"/>
+        <updated>2021-06-03T17:31:27.000Z</updated>
+        <summary type="html"><![CDATA[I&#39;m in my first real data science job at a F500 med device company. The team I am supporting is looking to implement smart features for a web application. The team is all software developers with zero experience/understanding of data science. The previous work/proof of concept for the work was a bunch of Juptyer notebooks using static log data as inputs, and we are working through which features to implement.
+ I&#39;m working to frame the steps of using data science/ML in production to crawl/walk/run (i…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla’s Model S Plaid Breaks the Quarter-Mile Record at 152 MPH]]></title>
+        <id>https://wordpress.futurism.com/?p=221783</id>
+        <link href="https://futurism.com/tesla-quarter-mile-record"/>
+        <updated>2021-06-03T17:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Going Plaid Tesla’s ludicrously fast Model S Plaid just set a new production car record, covering a 1/4 mile in just 9.247 at the Famoso Raceway in Bakersfield, California, Teslarati reports. The record was confirmed by none other than retired show host and car enthusiast Jay Leno, who attended the record-beating sprint. According to Leno, […]
+The post Tesla&#8217;s Model S Plaid Breaks the Quarter-Mile Record at 152 MPH appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft teams up with voting machine maker to let voters track ballots]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nriu44/microsoft_teams_up_with_voting_machine_maker_to/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nriu44/microsoft_teams_up_with_voting_machine_maker_to/"/>
+        <updated>2021-06-03T17:23:45.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Sumit316  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] This is the efficient frontier over 30 years. It was made to show how the investment environment is constantly changing.]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nritv6/oc_this_is_the_efficient_frontier_over_30_years/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nritv6/oc_this_is_the_efficient_frontier_over_30_years/"/>
+        <updated>2021-06-03T17:23:28.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/jcceagle  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinking Ship Full of Chemicals and Oil Threatens Horrifying Environmental Disaster]]></title>
+        <id>https://wordpress.futurism.com/?p=221762</id>
+        <link href="https://futurism.com/sinking-ship-chemicals-oil-environmental-disaster"/>
+        <updated>2021-06-03T17:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Unnatural Disaster A massive container ship carrying 330 tons of oil and 25 tons of flammable nitric acid off the coast of Sri Lanka was hit by an explosion last week after the Sri Lankan navy failed to put out the flames that had been raging on board for at least four days. The fire […]
+The post Sinking Ship Full of Chemicals and Oil Threatens Horrifying Environmental Disaster appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much has probabilistic programming been adopted in industry?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nridri/how_much_has_probabilistic_programming_been/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nridri/how_much_has_probabilistic_programming_been/"/>
+        <updated>2021-06-03T17:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Hello, this just merely an interesting thought I’ve had. I’ve noticed there’s an interesting niche within the field of Bayesian statistics that goes into probabilistic programming, building Bayesian models, Bayesian deep learning etc. This area seems like a big topic in research as well. My question is more so geared towards industry, but what is the trend recently when it comes to using Bayesian statistics and probabilistic programming in a company? My intuition tells me that Bayesian methods are really in…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Irish subsidiary paid zero corporate tax on £220bn profit last year - Microsoft Round Island One is ‘tax resident’ in Bermuda with no employees except directors]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nribzr/microsoft_irish_subsidiary_paid_zero_corporate/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nribzr/microsoft_irish_subsidiary_paid_zero_corporate/"/>
+        <updated>2021-06-03T17:02:16.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/speckz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Number of days where heat can cause premature death will increase in Canada]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrial1/oc_number_of_days_where_heat_can_cause_premature/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrial1/oc_number_of_days_where_heat_can_cause_premature/"/>
+        <updated>2021-06-03T17:00:39.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/sp3fix  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools for analyzing images]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrhzbw/tools_for_analyzing_images/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrhzbw/tools_for_analyzing_images/"/>
+        <updated>2021-06-03T16:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello data scientists,
+ I am but a mere engineer, trying to pretend that I know what I’m doing. I have a small set of labelled greyscale images (2 classes), and a lot of unlabelled images. I want to understand what qualitatively differentiates the sets of labelled images.
+ My engineer brain understands how to train something to do a prediction, but absolutely fails to understand how to analyze the image data with the tools at my disposal. I would love to be able to tell someone, “this is the difference betw…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ron Paul, Former United States Representative, Wants Bitcoin Totally Legalized to Compete With Dollar and Let the People Decide]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrhpcs/ron_paul_former_united_states_representative/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrhpcs/ron_paul_former_united_states_representative/"/>
+        <updated>2021-06-03T16:34:59.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/username_takne  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese government mouthpiece says people have the freedom to trade bitcoin — at their own risk]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrhnxg/chinese_government_mouthpiece_says_people_have/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrhnxg/chinese_government_mouthpiece_says_people_have/"/>
+        <updated>2021-06-03T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/username_takne  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grimes Says AI Will Usher in an Era of Luxurious Communism]]></title>
+        <id>https://wordpress.futurism.com/?p=221774</id>
+        <link href="https://futurism.com/grimes-ai-communism"/>
+        <updated>2021-06-03T16:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Singer-songwriter Grimes posted a TikTok video on Wednesday night in which she returned to her next biggest pastime: overpromising what artificial intelligence can provide to society. “I have a proposition for the Communists,” Grimes said in a TikTok video. “Typically, most of the communists I know are not big fans of AI. […]
+The post Grimes Says AI Will Usher in an Era of Luxurious Communism appeared first on Futurism.]]></summary>
+        <author>
+            <name>Dan Robitzski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
+        <id>5fff3d3098be260817e495bd</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
+        <updated>2021-06-03T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Blames Russia Hackers for Shutting Down Much of US Beef Supply]]></title>
+        <id>https://wordpress.futurism.com/?p=221744</id>
+        <link href="https://futurism.com/fbi-russia-meat-hack"/>
+        <updated>2021-06-03T16:07:12.000Z</updated>
+        <summary type="html"><![CDATA[The FBI is now blaming the Russian hacking group REvil, also known as Sodinokibi, for the massive ransomware hack that threatened about a quarter of the US beef supply. REvil, which the BBC reports is one of the most prominent and profitable hacker groups in the world, specifically targeted the meat processing giant […]
+The post FBI Blames Russia Hackers for Shutting Down Much of US Beef Supply appeared first on Futurism.]]></summary>
+        <author>
+            <name>Dan Robitzski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s a Great Time to Sell Your Rental Property. And Roofstock Is the Smart Way to Sell.]]></title>
+        <id>https://wordpress.futurism.com/?p=221720</id>
+        <link href="https://futurism.com/sell-your-rental-property-fast-roofstock"/>
+        <updated>2021-06-03T16:00:35.000Z</updated>
+        <summary type="html"><![CDATA[With demand for single-family rentals at an all-time high, there has never been a better time to sell your rental property than right now. Unfortunately, a lot of investors are reluctant to strike while the iron is hot because the traditional process of selling real estate takes too long, costs too much money, and requires […]
+The post It&#8217;s a Great Time to Sell Your Rental Property. And Roofstock Is the Smart Way to Sell. appeared first on Futurism.]]></summary>
+        <author>
+            <name>Futurism Creative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interest in a Puzzle-Solving Community?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrgvaq/interest_in_a_puzzlesolving_community/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrgvaq/interest_in_a_puzzlesolving_community/"/>
+        <updated>2021-06-03T15:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone!
+ Many members of this subreddit want to brush up on data science or keep their skills sharp. Would anyone be interested in starting a community where we write each other challenge problems and get in the habit of solving problems daily? Think probability puzzles, coding problems, and questions about ML techniques. Research shows daily problem-solving can help you learn much quicker, boost recall, and prevent you from forgetting key concepts. Even with a small community of 20 members, writing 1 …]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[R] Towards a Token-Free Future: Google Proposes Pretrained Byte-to-Byte Transformers for NLP]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrgmis/r_towards_a_tokenfree_future_google_proposes/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrgmis/r_towards_a_tokenfree_future_google_proposes/"/>
+        <updated>2021-06-03T15:48:01.000Z</updated>
+        <summary type="html"><![CDATA[A research team from Google proposes ByT5 architecture, a competitive token-free pretrained byte-to-byte transformer that can be straightforwardly adapted to process byte sequences without adding excessive computational cost. 
+ Here is a quick read: Towards a Token-Free Future: Google Proposes Pretrained Byte-to-Byte Transformers for NLP.
+ The paper ByT5: Towards a Token-Free Future With Pre-Trained Byte-to-Byte Models is on arXiv.
+  &#32; submitted by &#32;  /u/Yuqing7  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't End Up on This Artificial Intelligence Hall of Shame]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrg9e5/dont_end_up_on_this_artificial_intelligence_hall/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrg9e5/dont_end_up_on_this_artificial_intelligence_hall/"/>
+        <updated>2021-06-03T15:31:47.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mr_j_b  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAPay to Implement Blockchain-based Solutions on Algorand to Reduce Healthcare Cost in Bermuda]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrg7it/mapay_to_implement_blockchainbased_solutions_on/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrg7it/mapay_to_implement_blockchainbased_solutions_on/"/>
+        <updated>2021-06-03T15:29:31.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Kaotic3XD  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch a Man Soar Into the Sky With a Helicopter Backpack]]></title>
+        <id>https://wordpress.futurism.com/?p=221737</id>
+        <link href="https://futurism.com/copterpack-helicopter-backpack"/>
+        <updated>2021-06-03T15:22:21.000Z</updated>
+        <summary type="html"><![CDATA[CopterPack A new video shows off a daring pilot take off using what amounts to a backpack helicopter — a futuristic blend of a jetpack and drone. The invention is called CopterPack, created by an Australian startup of the same name. The pilot can be seen effortlessly taking to the skies on a beach. Is […]
+The post Watch a Man Soar Into the Sky With a Helicopter Backpack appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrg162/google_says_its_committed_to_ethical_ai_research/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrg162/google_says_its_committed_to_ethical_ai_research/"/>
+        <updated>2021-06-03T15:21:44.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mr_j_b  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UCSD Researchers Develop An Artificial Neuron Device That Could Reduce Energy Use and Size of Neural Network Hardware]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrg02a/ucsd_researchers_develop_an_artificial_neuron/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrg02a/ucsd_researchers_develop_an_artificial_neuron/"/>
+        <updated>2021-06-03T15:20:22.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/techsucker  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miami's Mayor Bought Bitcoin Below $40K and ETH at $1.5K]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrfyu5/miamis_mayor_bought_bitcoin_below_40k_and_eth_at/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrfyu5/miamis_mayor_bought_bitcoin_below_40k_and_eth_at/"/>
+        <updated>2021-06-03T15:18:47.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/smoothcrimi  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] My time on hold for NHS scotland to book my COVID vaccine, every 20s they updated my position so I decided to plot it, good linearity! - Excel]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrfxhp/oc_my_time_on_hold_for_nhs_scotland_to_book_my/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrfxhp/oc_my_time_on_hold_for_nhs_scotland_to_book_my/"/>
+        <updated>2021-06-03T15:17:07.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Lord_McBeth  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With r/CryptoCurrency hitting 3 Million Members, it seems like a good time to inform our newly joined family members as to our subreddits CryptoCurrency, MOON. - Large MOON Information and resource list.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrf89p/with_rcryptocurrency_hitting_3_million_members_it/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrf89p/with_rcryptocurrency_hitting_3_million_members_it/"/>
+        <updated>2021-06-03T14:46:48.000Z</updated>
+        <summary type="html"><![CDATA[This is a collection of all available resources I was able to find on CryptoCurrency&#39;s MOON. From Official Subreddit information to Community Member provided information.
+ This list should provide our new family members with all of the information they need to get started with MOON. This thread will also act as a good place to Ask and Answer any MOON related questions that these resources do not cover.
+ About MOONs
+ Official Information:
+  
+Reddit Community Points
+ Official Moon Wiki
+ Introducing r/Cryp…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Early Universe Was a Vast Liquid Ocean, Scientists Say]]></title>
+        <id>https://wordpress.futurism.com/?p=221732</id>
+        <link href="https://futurism.com/early-universe-vast-ocean"/>
+        <updated>2021-06-03T14:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Physicists used the world’s largest atom accelerator, the Large Hadron Collider (LHC) in Switzerland, to smash lead particles together at just shy of the speed of light to recreate the first matter created by the creation of the Universe. This primordial goo called “quark-gluon plasma” (QGP) only appeared for a tiny fraction of a second […]
+The post The Early Universe Was a Vast Liquid Ocean, Scientists Say appeared first on Futurism.]]></summary>
+        <author>
+            <name>Victor Tangermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Amazon Echo Will Share Your Wi-Fi Network With Neighbors, Unless You Opt Out]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrf7j6/your_amazon_echo_will_share_your_wifi_network/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrf7j6/your_amazon_echo_will_share_your_wifi_network/"/>
+        <updated>2021-06-03T14:45:57.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/binjo1  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History in the making- Bitcoin 2021 event is going to be the largest crypto conference with more than 12000 attendees. The speaker lineup is like never before and we think it is going to go beyond Bitcoin in the next three days.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrf4qh/history_in_the_making_bitcoin_2021_event_is_going/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrf4qh/history_in_the_making_bitcoin_2021_event_is_going/"/>
+        <updated>2021-06-03T14:42:24.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/itsblockchain  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Interactive website • Visualizing the link between your values and your demographic]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nresdm/oc_interactive_website_visualizing_the_link/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nresdm/oc_interactive_website_visualizing_the_link/"/>
+        <updated>2021-06-03T14:26:51.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/nullulla  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Best way to HODL is by being busy]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nreh3v/psa_best_way_to_hodl_is_by_being_busy/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nreh3v/psa_best_way_to_hodl_is_by_being_busy/"/>
+        <updated>2021-06-03T14:12:39.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people check the charts every 15 minutes. I used to be that guy too. Even though I knew that a small 20 minute pump or dip doesn&#39;t mean shit long-term, I kept on checking charts like a maniac. If anything, checking charts too often makes you nervous, and you risk of letting your emotions get the best of you.
+ So one day a few week ago, on a moment where I was checking the charts way too often again, I decided to go on a run. Literally forced myself not to check charts.
+ That&#39;s been a few we…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this a common problem?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nrecu2/is_this_a_common_problem/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nrecu2/is_this_a_common_problem/"/>
+        <updated>2021-06-03T14:07:23.000Z</updated>
+        <summary type="html"><![CDATA[I tried fitting a GLM style regression model to some data and it resulted in all the regression coefficients being estimated as 0 (i.e. model failed). Yet when I tried a random forest model on the same data, the model worked well and I was even able to get 70% accuracy on the test set.
+ My dataset has continuous and categorical variables, as well as a lot of &quot;naturally occurring zeros&quot;.
+ I was just wondering: is this a common problem? I spent a whole day trying to tweak the regression model to wor…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Identify Threshold at Which Shapes Give Way]]></title>
+        <id>https://www.quantamagazine.org/?p=105275</id>
+        <link href="https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/"/>
+        <updated>2021-06-03T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[A new proof establishes the boundary at which a shape becomes so corrugated, it can be crushed.            
+The post Mathematicians Identify Threshold at Which Shapes Give Way first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] How States voted in Forming 1-6 Commission]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrdpcj/oc_how_states_voted_in_forming_16_commission/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrdpcj/oc_how_states_voted_in_forming_16_commission/"/>
+        <updated>2021-06-03T13:36:57.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Positivity2020  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine learning security needs new perspectives and incentives]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrdgso/machine_learning_security_needs_new_perspectives/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrdgso/machine_learning_security_needs_new_perspectives/"/>
+        <updated>2021-06-03T13:25:46.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/bendee983  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing instead of buying cigarettes]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrdcmj/investing_instead_of_buying_cigarettes/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrdcmj/investing_instead_of_buying_cigarettes/"/>
+        <updated>2021-06-03T13:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by this comment in another thread, I created this table just to visualize how much crypto you would have if instead of spending on your vice (in this case, $188 a month on cigarettes), you put that into crypto (or the S&amp;P500).
+ The thing about the comment that struck me was that even if crypto crashed, you would presumably still be better off in terms of health. You&#39;re pretty much free-rolling your crypto stake and getting better health! 
+ BTC instead of a smoking habit
+ &#x200B;
+ S&amp;P 5…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Stream temperatures in the Delaware River Basin]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrd3w8/oc_stream_temperatures_in_the_delaware_river_basin/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrd3w8/oc_stream_temperatures_in_the_delaware_river_basin/"/>
+        <updated>2021-06-03T13:08:21.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/houndrunner  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Democratic House Representatives from the Deep South (1981-2021) [OC]]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrd03v/white_democratic_house_representatives_from_the/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrd03v/white_democratic_house_representatives_from_the/"/>
+        <updated>2021-06-03T13:03:11.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Roughneck16  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borrowing using Crypto as Collateral: My Experiences and Findings]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrcvog/borrowing_using_crypto_as_collateral_my/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrcvog/borrowing_using_crypto_as_collateral_my/"/>
+        <updated>2021-06-03T12:57:37.000Z</updated>
+        <summary type="html"><![CDATA[As tax day in the U.S (5/17) quickly crept up on me, I found myself in a predicament: I was crypto rich but cash poor and did not have enough dollars to pay my taxes. This led me to doing research on how to borrow using crypto as collateral for I was trying to avoid selling crypto to pay taxes, which in turn would trigger more taxes. Here are my findings below:
+ Since crypto is an extremely volatile asset and there is no yet established credit system in the crypto lending space, meaning crypto-backed loans …]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s Cost Saving Routing Algorithm Makes Drivers Walk Into Traffic - "It’s Fucking Horrendous, Honestly. [You're Crossing] Multiple Lanes, Busy Traffic."]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrcmbd/amazons_cost_saving_routing_algorithm_makes/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrcmbd/amazons_cost_saving_routing_algorithm_makes/"/>
+        <updated>2021-06-03T12:44:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/speckz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low trust in government, conspiracy beliefs and watching YouTube predicts vaccine hesitancy]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrcjdp/low_trust_in_government_conspiracy_beliefs_and/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrcjdp/low_trust_in_government_conspiracy_beliefs_and/"/>
+        <updated>2021-06-03T12:40:46.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Wagamaga  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some ISPs Exploited Covid Broadband Relief Program to Make an Extra Buck - While the $3.2 billion program provides relief to struggling Americans, some ISPs are abusing it to make an additional buck during a crisis.]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrchyz/some_isps_exploited_covid_broadband_relief/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrchyz/some_isps_exploited_covid_broadband_relief/"/>
+        <updated>2021-06-03T12:38:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/speckz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verizon says forcing people off old plans to get FCC subsidy isn’t “upselling” - Verizon says it'll reverse subsidy restriction after "complex" billing-system update.]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrcfi9/verizon_says_forcing_people_off_old_plans_to_get/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrcfi9/verizon_says_forcing_people_off_old_plans_to_get/"/>
+        <updated>2021-06-03T12:35:17.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/speckz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] If the size of the United States House of Representatives was expanded using the Cube Root Rule and DC and Puerto Rico are granted statehood]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrcerv/oc_if_the_size_of_the_united_states_house_of/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrcerv/oc_if_the_size_of_the_united_states_house_of/"/>
+        <updated>2021-06-03T12:34:16.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/BlackberryInfamous76  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of UK temperature, rainfall and sunshine for the past year [OC]]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrcb4a/summary_of_uk_temperature_rainfall_and_sunshine/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrcb4a/summary_of_uk_temperature_rainfall_and_sunshine/"/>
+        <updated>2021-06-03T12:29:09.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/neilrkaye  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google removes diversity head over anti-Semitic blog post]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrca46/google_removes_diversity_head_over_antisemitic/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrca46/google_removes_diversity_head_over_antisemitic/"/>
+        <updated>2021-06-03T12:27:39.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/BoGaN223  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Reddit members on an Oklahoma subreddit were asked if they were taught about the Tulsa Massacre of 1921 in their schools, here is a summary of those responses:]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrc7vm/oc_reddit_members_on_an_oklahoma_subreddit_were/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrc7vm/oc_reddit_members_on_an_oklahoma_subreddit_were/"/>
+        <updated>2021-06-03T12:24:40.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/JPAnalyst  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front page BBC report: 'Charlie Bit Me' NFT minted on Ethereum will pay University fees]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrbxor/front_page_bbc_report_charlie_bit_me_nft_minted/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrbxor/front_page_bbc_report_charlie_bit_me_nft_minted/"/>
+        <updated>2021-06-03T12:09:59.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/-lightfoot  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatality rates for G7 national leaders [OC]]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrbqak/fatality_rates_for_g7_national_leaders_oc/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrbqak/fatality_rates_for_g7_national_leaders_oc/"/>
+        <updated>2021-06-03T11:59:10.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Udzu  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] The evolution of squad compositions at UEFA European Championships]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrbpx1/oc_the_evolution_of_squad_compositions_at_uefa/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrbpx1/oc_the_evolution_of_squad_compositions_at_uefa/"/>
+        <updated>2021-06-03T11:58:34.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/guyabel  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada wants to use Government ID's, AI's and Biometrics to gauge if you're old enough to watch porn]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nrbpwv/canada_wants_to_use_government_ids_ais_and/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nrbpwv/canada_wants_to_use_government_ids_ais_and/"/>
+        <updated>2021-06-03T11:58:34.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/WillOfTheLand  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learned from this sub in a few months]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nrbphw/what_i_learned_from_this_sub_in_a_few_months/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nrbphw/what_i_learned_from_this_sub_in_a_few_months/"/>
+        <updated>2021-06-03T11:57:54.000Z</updated>
+        <summary type="html"><![CDATA[I am a user of this sub since a few months I learned some things I wanna share with you.
+  
+Use a secure password and 2FA Verification.
+ Invest only what you can afford to lose.
+ We hate these prediction polls.
+ Robinhood sucks
+ Ethereum &gt; Bitcoin
+ We are still early
+ Dogecoin is not a good longterm investment
+ Nobody can predict the market.
+ Buy. The. Dip.
+ That&#39;s a dip for ants.
+ Marketcaps are a good indicator if you buy a shitcoin or not
+ Don&#39;t forget to pay your taxes.
+ Safemoon isn&#39;t as…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Anthony Fantano's videos are (usually) more liked when he gives higher reviews]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrbpgq/oc_anthony_fantanos_videos_are_usually_more_liked/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrbpgq/oc_anthony_fantanos_videos_are_usually_more_liked/"/>
+        <updated>2021-06-03T11:57:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Neat_Caterpillar  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence will be Smarter than You in Your Lifetime]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nrbnut/artificial_intelligence_will_be_smarter_than_you/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nrbnut/artificial_intelligence_will_be_smarter_than_you/"/>
+        <updated>2021-06-03T11:55:13.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/adam_ford  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read Fast And Smarter With A Blinkist 2-Year Premium Subscription That’s Over 70% Off]]></title>
+        <id>https://wordpress.futurism.com/?p=221728</id>
+        <link href="https://futurism.com/read-fast-and-smarter-with-a-blinkist-2-year-premium-subscription-thats-over-70-off"/>
+        <updated>2021-06-03T11:13:46.000Z</updated>
+        <summary type="html"><![CDATA[It wasn&#8217;t so long ago that the internet was supposedly about to kill the book. Instead, we now use the internet, or at least machine learning, to recommend books, find deals on books, and even to write books. Still, if you&#8217;re nervous about getting to that ever-growing library on your Kindle or in the corner [&#8230;]
+The post Read Fast And Smarter With A Blinkist 2-Year Premium Subscription That&#8217;s Over 70% Off appeared first on Futurism.]]></summary>
+        <author>
+            <name>Futurism Creative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antivirus that mines Ethereum sounds a bit wrong, right? Norton has started selling it]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nraqyf/antivirus_that_mines_ethereum_sounds_a_bit_wrong/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nraqyf/antivirus_that_mines_ethereum_sounds_a_bit_wrong/"/>
+        <updated>2021-06-03T11:04:51.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Loki-L  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bob Ross Virtual Art Gallery]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nral5r/the_bob_ross_virtual_art_gallery/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nral5r/the_bob_ross_virtual_art_gallery/"/>
+        <updated>2021-06-03T10:54:41.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/MarcoJHB  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal officials look to crack down on deceptive subscription marketing practices at broad range of firms]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nraik9/federal_officials_look_to_crack_down_on_deceptive/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nraik9/federal_officials_look_to_crack_down_on_deceptive/"/>
+        <updated>2021-06-03T10:49:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/zsreport  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Map of Italy showing only the towns and villages that have at least a BC year cited in their Wikipedia article (the darker the shade, the earlier the year cited).]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nrafjk/oc_map_of_italy_showing_only_the_towns_and/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nrafjk/oc_map_of_italy_showing_only_the_towns_and/"/>
+        <updated>2021-06-03T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/hd189  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] How the markup (profit / sales) of US firms increased with market cap, 1950 - 2015.]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nra7pg/oc_how_the_markup_profit_sales_of_us_firms/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nra7pg/oc_how_the_markup_profit_sales_of_us_firms/"/>
+        <updated>2021-06-03T10:29:59.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/blairfix  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Degrees of uncertainty]]></title>
+        <id>https://aeon.co/videos/how-much-can-science-really-tell-us-about-the-future-of-climate-change?utm_medium=feed&amp;utm_source=atom-feed</id>
+        <link href="https://aeon.co/videos/how-much-can-science-really-tell-us-about-the-future-of-climate-change?utm_medium=feed&amp;utm_source=atom-feed"/>
+        <updated>2021-06-03T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A data-centric deep dive into the climate crisis shows the importance of rejecting fatalism when solving the problem
+By Aeon Video
+Watch at Aeon]]></summary>
+        <author>
+            <name>Aeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exit the Fatherland]]></title>
+        <id>https://aeon.co/essays/germany-became-a-tolerant-nation-only-by-painful-small-steps?utm_medium=feed&amp;utm_source=atom-feed</id>
+        <link href="https://aeon.co/essays/germany-became-a-tolerant-nation-only-by-painful-small-steps?utm_medium=feed&amp;utm_source=atom-feed"/>
+        <updated>2021-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shaking off Nazism was no simple matter: the work to create a plural and peacable Germany was prolonged and painful
+By Helmut Walser Smith
+Read at Aeon]]></summary>
+        <author>
+            <name>Aeon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA will send two missions to Venus for the first time in over 30 years]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr9qfh/nasa_will_send_two_missions_to_venus_for_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr9qfh/nasa_will_send_two_missions_to_venus_for_the/"/>
+        <updated>2021-06-03T09:58:48.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/WannoHacker  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas proving grounds to test AI in the real world]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nr9evb/texas_proving_grounds_to_test_ai_in_the_real_world/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nr9evb/texas_proving_grounds_to_test_ai_in_the_real_world/"/>
+        <updated>2021-06-03T09:35:58.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mr_j_b  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligences are taking over UK business, claims govt]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/nr9epj/artificial_intelligences_are_taking_over_uk/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/nr9epj/artificial_intelligences_are_taking_over_uk/"/>
+        <updated>2021-06-03T09:35:39.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/mr_j_b  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to be taken seriously during a job interview when you don't have a STEM degree?]]></title>
+        <id>https://www.reddit.com/r/datascience/comments/nr9b9x/how_to_be_taken_seriously_during_a_job_interview/</id>
+        <link href="https://www.reddit.com/r/datascience/comments/nr9b9x/how_to_be_taken_seriously_during_a_job_interview/"/>
+        <updated>2021-06-03T09:29:02.000Z</updated>
+        <summary type="html"><![CDATA[NB: this is NOT a rant post, I swear. I want to be proactive.
+ I&#39;m writing here to ask some advice on how to tackle my next interview processes, I have a problem about this.
+ &#x200B;
+ SOME CONTEXT, QUICKLY:
+ I am already a professional Data Scientist with almost 3 years of experience in a large company.
+ I have a PhD from a social science department. My main field of study has been application of statistical models. I spent four years studying (mostly) statistics and econometrics, and doing estimations…]]></summary>
+        <author>
+            <name>top scoring links : datascience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Cap Recovers $300B In Three Days as Bitcoin Touched $39,000]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr975b/crypto_market_cap_recovers_300b_in_three_days_as/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr975b/crypto_market_cap_recovers_300b_in_three_days_as/"/>
+        <updated>2021-06-03T09:21:07.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Roy1984  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Gates' next generation nuclear reactor to be built in Wyoming]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr8pb3/bill_gates_next_generation_nuclear_reactor_to_be/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr8pb3/bill_gates_next_generation_nuclear_reactor_to_be/"/>
+        <updated>2021-06-03T08:47:03.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Dipluz  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Thread is 3 months old. ETH barely scratched the 2000$ in this dip and everyone panicked. Chill the fuck out and DCA in.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr8iyi/this_thread_is_3_months_old_eth_barely_scratched/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr8iyi/this_thread_is_3_months_old_eth_barely_scratched/"/>
+        <updated>2021-06-03T08:34:41.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/robinhood1596  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamau Bobb Removed As Google's Diversity Head Over 2007 Antisemitic Blog Post]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr8dvr/kamau_bobb_removed_as_googles_diversity_head_over/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr8dvr/kamau_bobb_removed_as_googles_diversity_head_over/"/>
+        <updated>2021-06-03T08:24:29.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/CharyBrown  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox now autoupdates on Windows even when not running]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr83ck/firefox_now_autoupdates_on_windows_even_when_not/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr83ck/firefox_now_autoupdates_on_windows_even_when_not/"/>
+        <updated>2021-06-03T08:04:02.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/badger707_XXL  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dormant Address Containing 310 BTC (11,381,531 USD) Has Just Been Activated After 9.7 years (worth 1,894 USD in 2011)!]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr7ve4/a_dormant_address_containing_310_btc_11381531_usd/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr7ve4/a_dormant_address_containing_310_btc_11381531_usd/"/>
+        <updated>2021-06-03T07:49:30.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/HeungMinSwan  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 global football giants with over 230 million followers will launch their NFT on Zilliqa]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr79in/10_global_football_giants_with_over_230_million/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr79in/10_global_football_giants_with_over_230_million/"/>
+        <updated>2021-06-03T07:07:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Blockchainsapiens  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROM site owner made $30,000 a year—now owes Nintendo $2.1M]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr645a/rom_site_owner_made_30000_a_yearnow_owes_nintendo/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr645a/rom_site_owner_made_30000_a_yearnow_owes_nintendo/"/>
+        <updated>2021-06-03T05:49:50.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/bort1313  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I believe in the future of crypto more then just about anything else. Ive held since September 2017. But today i had to sell.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr5rm4/i_believe_in_the_future_of_crypto_more_then_just/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr5rm4/i_believe_in_the_future_of_crypto_more_then_just/"/>
+        <updated>2021-06-03T05:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Well im not gonna tell my whole life story, but hopefully it can help some of yall out, as reading alot of yalls stuff has helped me out over the years. 
+ short story, i saw in sept of 2017 bitcoin was making new highs. Having herd of bitcoin in 2012, and seeing it still be relevant, and at 2500$,i figured i needed to look into it. 
+ so after a week of starting to dive down the rabbit hole, i did the logical thing. i quite my job, lived out of my car, and spent the next 3 months glued to the computer. i had…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will begin accepting advertisements of cryptocurrency exchanges and digital wallets targeting U.S. consumers on its platform beginning Aug 3rd. This is bigger than what most people think!]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr5j8b/google_will_begin_accepting_advertisements_of/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr5j8b/google_will_begin_accepting_advertisements_of/"/>
+        <updated>2021-06-03T05:11:56.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/arj511  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you're wondering why BNB and DOT are pumping]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr5ekf/if_youre_wondering_why_bnb_and_dot_are_pumping/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr5ekf/if_youre_wondering_why_bnb_and_dot_are_pumping/"/>
+        <updated>2021-06-03T05:03:34.000Z</updated>
+        <summary type="html"><![CDATA[If you use Binance, you will most likely have already seen this, but if you don&#39;t use Binance then allow me to explain. 
+ This pump happens every time there is a new launchpool advertised on Binance. The launchpool is a farm of a new token which is launching on Binance. Generally, you can stake BNB, BUSD and one other coin. This time, the coin is DOT. So as you might imagine, there are going to be a lot of people who are buying BNB and DOT right now in order to secure themselves a higher yield from the …]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Which 20 companies contributed to creating the most single use plastics in 2019 and what does that look like in plastic bags?]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nr4dpb/oc_which_20_companies_contributed_to_creating_the/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nr4dpb/oc_which_20_companies_contributed_to_creating_the/"/>
+        <updated>2021-06-03T04:01:28.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Saltfaces  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s newest euphemism for overworked employees is ‘industrial athlete’]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr48j8/amazons_newest_euphemism_for_overworked_employees/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr48j8/amazons_newest_euphemism_for_overworked_employees/"/>
+        <updated>2021-06-03T03:53:13.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Sorin61  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Marketing is Getting More Personal(ized)]]></title>
+        <id>https://wordpress.futurism.com/?p=221725</id>
+        <link href="https://futurism.com/social-media-personalization-intellifluence"/>
+        <updated>2021-06-03T03:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Since the earliest days of MySpace, internet celebrities have flexed their promotional muscle by spinning up their own direct-to-consumer brands and selling millions of dollars worth of merchandise to their followers. It’s no surprise their campaigns work so well: Influencer marketing is widely understood to be one of the most effective forms of marketing, primarily […]
+The post Social Marketing is Getting More Personal(ized) appeared first on Futurism.]]></summary>
+        <author>
+            <name>Foster Kamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miami readies for massive Bitcoin conference with 20K+ attendees]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr32ro/miami_readies_for_massive_bitcoin_conference_with/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr32ro/miami_readies_for_massive_bitcoin_conference_with/"/>
+        <updated>2021-06-03T02:46:46.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/Bubba4_20  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your $20 crypto investment is great! Don't get discouraged when you see people posting about dropping a few grand on a coin on a whim.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr2v11/your_20_crypto_investment_is_great_dont_get/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr2v11/your_20_crypto_investment_is_great_dont_get/"/>
+        <updated>2021-06-03T02:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Did you invest a modest amount of money in crypto, feel excited, then saw people on Reddit investing huge sums, and your excitement faded?
+ You are investing for you. Please don&#39;t spend more than you can afford to lose because you feel your investment isn&#39;t large enough. I know how it feels to own 1/2 of a coin, visit that coin&#39;s subreddit and see people talking about how they just picked up 25 more coins (even though it took me 3 months of DCAing to get half a coin). I quickly realized I invest…]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your next laptop may come with a cryptominer, courtesy of Norton]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr26op/your_next_laptop_may_come_with_a_cryptominer/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr26op/your_next_laptop_may_come_with_a_cryptominer/"/>
+        <updated>2021-06-03T01:57:47.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/FireFright8142  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFL veteran and Bitcoin proponent Russell Okung launches a "Stick to Space, Elon" billboard campaign to remind the public that Elon Musk has no authority over Bitcoin. One of the billboards will feature near the SpaceX launch facility.]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr1qwr/nfl_veteran_and_bitcoin_proponent_russell_okung/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr1qwr/nfl_veteran_and_bitcoin_proponent_russell_okung/"/>
+        <updated>2021-06-03T01:33:09.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/nickpegu  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple asks staff to return to office three days a week starting in early September]]></title>
+        <id>https://www.reddit.com/r/technology/comments/nr1qa5/apple_asks_staff_to_return_to_office_three_days_a/</id>
+        <link href="https://www.reddit.com/r/technology/comments/nr1qa5/apple_asks_staff_to_return_to_office_three_days_a/"/>
+        <updated>2021-06-03T01:32:11.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/hexydes  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin On Path To Functioning Just Like Real Currency After Small Concentration Of People Acquire Majority Of It]]></title>
+        <id>https://www.reddit.com/r/CryptoCurrency/comments/nr1h5o/bitcoin_on_path_to_functioning_just_like_real/</id>
+        <link href="https://www.reddit.com/r/CryptoCurrency/comments/nr1h5o/bitcoin_on_path_to_functioning_just_like_real/"/>
+        <updated>2021-06-03T01:18:13.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/pm_me_cute_sloths_  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : CryptoCurrency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] One Year of Hinge Activity]]></title>
+        <id>https://www.reddit.com/r/dataisbeautiful/comments/nr1acc/oc_one_year_of_hinge_activity/</id>
+        <link href="https://www.reddit.com/r/dataisbeautiful/comments/nr1acc/oc_one_year_of_hinge_activity/"/>
+        <updated>2021-06-03T01:08:01.000Z</updated>
+        <summary type="html"><![CDATA[&#32; submitted by &#32;  /u/don_draper97  
+ [link] &#32; [comments]]]></summary>
+        <author>
+            <name>top scoring links : dataisbeautiful</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[terra.js project]]></title>
         <id>https://www.reddit.com/r/datascience/comments/nr15fs/terrajs_project/</id>
@@ -31333,36 +32710,6 @@ Cutting into the brain, unlike the muscles of a forearm or the arteries running 
 The post Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Thomas Lewton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keith Haring on Creativity, Empathy, and What Makes Us Who We Are]]></title>
-        <id>https://www.brainpickings.org/?p=73407</id>
-        <link href="http://feedproxy.google.com/~r/brainpickings/rss/~3/ANghi90MfiQ/"/>
-        <updated>2021-05-04T19:22:08.000Z</updated>
-        <summary type="html"><![CDATA["The need to separate ourselves and connect ourselves to our environment (world) is a primary need of all human beings."]]></summary>
-        <author>
-            <name>Maria Popova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
         </author>
     </entry>
 </feed>
